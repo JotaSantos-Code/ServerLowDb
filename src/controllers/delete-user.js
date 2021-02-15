@@ -1,8 +1,8 @@
 "use strict";
 
-const { getConnection } = async require("../database");
+const { getConnection } = require("../database");
 
-const deleteUserById = (req, res) => {
+const deleteUserById = async (req, res) => {
   const deletedUser = await getConnection()
     .get("users")
     .remove({ id: req.params.id })

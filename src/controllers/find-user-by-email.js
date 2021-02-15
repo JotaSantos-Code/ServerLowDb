@@ -5,8 +5,8 @@ const { getUsers } = require('./get-users');
 
 const findUserByEmail = async (req, res) => {
 
-    const user = await getConnection().get('users').find({ email: users.email }).value();
-    res.json()
+    const user = await getUsers();
+    console.log(user);
 
 
 }
