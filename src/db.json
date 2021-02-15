@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "eca91ddf-209f-41d0-ada0-4bfaf5e39bf4",
+      "name": "Pepe",
+      "password": "1234",
+      "email": "pepe@gmail.com"
+    },
+    {
+      "id": "4c702c2f-2610-4d70-b600-a4c189199a21",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "971d8071-2cc8-4f2d-b886-fc701a236d4b",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "334944f6-6b53-470b-ba50-8b65df130471",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "558a9a46-890e-4bc9-99cb-3f26f5647508",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "34b3ca68-0baa-42d7-842e-5610ab127a95",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "77ebf3ad-4b68-4d37-a02f-69fa547286c9",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "10d2286f-fbc8-42de-9cea-9891149bce12",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "ffb06297-c9e9-43ce-9ed8-d7b1896a5253",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "5b6a17d1-8b78-443d-8025-7ffac278f551",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "c99d35d9-dc71-4baa-8dcc-79689b77a8cc",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    },
+    {
+      "id": "c6c77a92-739e-47bd-82d7-588bb346dbfc",
+      "name": "Marta",
+      "password": "1234",
+      "email": "marta@gmail.com"
+    }
+  ]
+}
