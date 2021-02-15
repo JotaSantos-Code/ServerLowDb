@@ -2,4 +2,11 @@ const {getConnection} = require('../database');
 
 
 
-const 
+const findUserByEmail = async (req, res) => {
+
+    const { }
+
+
+
+
+}
